@@ -5,7 +5,7 @@
 CCAMP Working Group                                                C. Yu
 Internet-Draft                                                  H. Zheng
 Intended status: Standards Track                     Huawei Technologies
-Expires: 16 March 2024                                            A. Guo
+Expires: 25 March 2024                                            A. Guo
                                                                Futurewei
                                                                  I. Busi
                                                      Huawei Technologies
@@ -15,7 +15,7 @@ Expires: 16 March 2024                                            A. Guo
                                                             China Mobile
                                                                   X. Liu
                                                                Alef Edge
-                                                       13 September 2023
+                                                       22 September 2023
 
 
                A YANG Data Model for Client-layer Tunnel
@@ -42,7 +42,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 16 March 2024.
+   This Internet-Draft will expire on 25 March 2024.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Yu, et al.                Expires 16 March 2024                 [Page 1]
+Yu, et al.                Expires 25 March 2024                 [Page 1]
 
 Internet-Draft          Client Tunnel YANG Model          September 2023
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Yu, et al.                Expires 16 March 2024                 [Page 2]
+Yu, et al.                Expires 25 March 2024                 [Page 2]
 
 Internet-Draft          Client Tunnel YANG Model          September 2023
 
@@ -165,7 +165,7 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 16 March 2024                 [Page 3]
+Yu, et al.                Expires 25 March 2024                 [Page 3]
 
 Internet-Draft          Client Tunnel YANG Model          September 2023
 
@@ -221,7 +221,7 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 16 March 2024                 [Page 4]
+Yu, et al.                Expires 25 March 2024                 [Page 4]
 
 Internet-Draft          Client Tunnel YANG Model          September 2023
 
@@ -277,7 +277,7 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 16 March 2024                 [Page 5]
+Yu, et al.                Expires 25 March 2024                 [Page 5]
 
 Internet-Draft          Client Tunnel YANG Model          September 2023
 
@@ -333,7 +333,7 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 16 March 2024                 [Page 6]
+Yu, et al.                Expires 25 March 2024                 [Page 6]
 
 Internet-Draft          Client Tunnel YANG Model          September 2023
 
@@ -389,7 +389,7 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 16 March 2024                 [Page 7]
+Yu, et al.                Expires 25 March 2024                 [Page 7]
 
 Internet-Draft          Client Tunnel YANG Model          September 2023
 
@@ -400,11 +400,6 @@ Acknowledgments
    comments and discussions.
 
 Contributors
-
-   Yanlei Zheng
-   China Unicom
-   Email: zhengyanlei@chinaunicom.cn
-
 
    Zhe Liu
    Huawei Technologies
@@ -442,17 +437,17 @@ Authors' Addresses
    Email: zhenghaomian@huawei.com
 
 
-
-
-
-Yu, et al.                Expires 16 March 2024                 [Page 8]
-
-Internet-Draft          Client Tunnel YANG Model          September 2023
-
-
    Aihua Guo
    Futurewei
    Email: aihuaguo@futurewei.com
+
+
+
+
+
+Yu, et al.                Expires 25 March 2024                 [Page 8]
+
+Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
    Italo Busi
@@ -501,4 +496,9 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 16 March 2024                 [Page 9]
+
+
+
+
+
+Yu, et al.                Expires 25 March 2024                 [Page 9]
