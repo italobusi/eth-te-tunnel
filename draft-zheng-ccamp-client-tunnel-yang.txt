@@ -5,7 +5,7 @@
 CCAMP Working Group                                                C. Yu
 Internet-Draft                                                  H. Zheng
 Intended status: Standards Track                     Huawei Technologies
-Expires: 25 March 2024                                            A. Guo
+Expires: 11 April 2024                                            A. Guo
                                                                Futurewei
                                                                  I. Busi
                                                      Huawei Technologies
@@ -15,7 +15,7 @@ Expires: 25 March 2024                                            A. Guo
                                                             China Mobile
                                                                   X. Liu
                                                                Alef Edge
-                                                       22 September 2023
+                                                          9 October 2023
 
 
                A YANG Data Model for Client-layer Tunnel
@@ -42,7 +42,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 25 March 2024.
+   This Internet-Draft will expire on 11 April 2024.
 
 Copyright Notice
 
@@ -53,9 +53,9 @@ Copyright Notice
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 1]
+Yu, et al.                Expires 11 April 2024                 [Page 1]
 
-Internet-Draft          Client Tunnel YANG Model          September 2023
+Internet-Draft          Client Tunnel YANG Model            October 2023
 
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -109,9 +109,9 @@ Table of Contents
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 2]
+Yu, et al.                Expires 11 April 2024                 [Page 2]
 
-Internet-Draft          Client Tunnel YANG Model          September 2023
+Internet-Draft          Client Tunnel YANG Model            October 2023
 
 
    a network controller via a REST interface.  Furthermore, it can be
@@ -165,9 +165,9 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 3]
+Yu, et al.                Expires 11 April 2024                 [Page 3]
 
-Internet-Draft          Client Tunnel YANG Model          September 2023
+Internet-Draft          Client Tunnel YANG Model            October 2023
 
 
    module: ietf-eth-te-tunnel
@@ -221,9 +221,9 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 4]
+Yu, et al.                Expires 11 April 2024                 [Page 4]
 
-Internet-Draft          Client Tunnel YANG Model          September 2023
+Internet-Draft          Client Tunnel YANG Model            October 2023
 
 
          WG List: <mailto:ccamp@ietf.org>
@@ -277,9 +277,9 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 5]
+Yu, et al.                Expires 11 April 2024                 [Page 5]
 
-Internet-Draft          Client Tunnel YANG Model          September 2023
+Internet-Draft          Client Tunnel YANG Model            October 2023
 
 
                description
@@ -333,9 +333,9 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 6]
+Yu, et al.                Expires 11 April 2024                 [Page 6]
 
-Internet-Draft          Client Tunnel YANG Model          September 2023
+Internet-Draft          Client Tunnel YANG Model            October 2023
 
 
 9.  References
@@ -343,12 +343,12 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 9.1.  Normative References
 
    [I-D.ietf-teas-yang-te]
-              Saad, T., Gandhi, R., Liu, X., Beeram, V. P., Bryskin, I.,
-              and O. G. de Dios, "A YANG Data Model for Traffic
-              Engineering Tunnels, Label Switched Paths and Interfaces",
-              Work in Progress, Internet-Draft, draft-ietf-teas-yang-te-
-              33, 4 July 2023, <https://datatracker.ietf.org/doc/html/
-              draft-ietf-teas-yang-te-33>.
+              Saad, T., Gandhi, R., Liu, X., Beeram, V. P., and I.
+              Bryskin, "A YANG Data Model for Traffic Engineering
+              Tunnels, Label Switched Paths and Interfaces", Work in
+              Progress, Internet-Draft, draft-ietf-teas-yang-te-34, 1
+              October 2023, <https://datatracker.ietf.org/doc/html/
+              draft-ietf-teas-yang-te-34>.
 
    [RFC6241]  Enns, R., Ed., Bjorklund, M., Ed., Schoenwaelder, J., Ed.,
               and A. Bierman, Ed., "Network Configuration Protocol
@@ -389,9 +389,9 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 7]
+Yu, et al.                Expires 11 April 2024                 [Page 7]
 
-Internet-Draft          Client Tunnel YANG Model          September 2023
+Internet-Draft          Client Tunnel YANG Model            October 2023
 
 
 Acknowledgments
@@ -445,9 +445,9 @@ Authors' Addresses
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 8]
+Yu, et al.                Expires 11 April 2024                 [Page 8]
 
-Internet-Draft          Client Tunnel YANG Model          September 2023
+Internet-Draft          Client Tunnel YANG Model            October 2023
 
 
    Italo Busi
@@ -501,4 +501,4 @@ Internet-Draft          Client Tunnel YANG Model          September 2023
 
 
 
-Yu, et al.                Expires 25 March 2024                 [Page 9]
+Yu, et al.                Expires 11 April 2024                 [Page 9]
