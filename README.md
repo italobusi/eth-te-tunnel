@@ -1,16 +1,18 @@
-# A YANG Data Model for Client-layer Tunnel
+# Internet-Draft Template Repository
 
-This is the working area for the individual Internet-Draft, "A YANG Data Model for Client-layer Tunnel".
+Use this repository as a template if you want to start working on
+[IETF](https://www.ietf.org/) documents. [Click here to create a new repository using the
+template](https://github.com/martinthomson/internet-draft-template/generate).
+Make sure to check "Include all branches", or you will need to enable GitHub Pages manually.
 
-* [Editor's Copy](https://raw.githubusercontent.com/italobusi/eth-te-tunnel/main/draft-zheng-ccamp-client-tunnel-yang.txt)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-zheng-ccamp-client-tunnel-yang)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-zheng-ccamp-client-tunnel-yang)
-* [Compare Editor's Copy to Individual Draft](https://www.ietf.org/rfcdiff?url1=draft-zheng-ccamp-client-tunnel-yang&url2=https://raw.githubusercontent.com/italobusi/eth-te-tunnel/main/draft-zheng-ccamp-client-tunnel-yang.txt)
+[Read the
+instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md)
+for more information.
 
-## Contributing
+Once you have created your own repository, start work by:
 
-See the
-[guidelines for contributions](https://github.com/italobusi/draft-poidt-teas-actn-poi-assurance/blob/main/CONTRIBUTING.md).
+1. Set "Workflow permissions" to "Read and write permissions"
+   [in the repository settings](../../settings/actions#actions_default_workflow_permissions_write).
 
-Contributions can be made by creating pull requests.
-The GitHub interface supports creating pull requests using the Edit (✏) button.
+2. Rename the `draft-todo-yourname-protocol.md` file
+   [here](../../edit/main/draft-todo-yourname-protocol.md).
