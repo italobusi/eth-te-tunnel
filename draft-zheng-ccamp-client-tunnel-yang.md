@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "A YANG Data Model for Client-layer Tunnel"
+abbrev: "Client Tunnel YANG Model"
+category: std
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-zheng-ccamp-client-tunnel-yang-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
