@@ -49,6 +49,15 @@ Copyright Notice
    Copyright (c) 2023 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
+
+
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 1]
+
+Internet-Draft          Client Tunnel YANG Model            October 2023
+
+
    This document is subject to BCP 78 and the IETF Trust's Legal
    Provisions Relating to IETF Documents (https://trustee.ietf.org/
    license-info) in effect on the date of publication of this document.
@@ -60,24 +69,24 @@ Copyright Notice
 
 Table of Contents
 
-   1.  Introduction
-   2.  Terminology and Notations
-   3.  YANG Model for Client-layer Tunnel
-     3.1.  YANG Tree for Ethernet Tunnel
-     3.2.  YANG Tree for Tunnel of other Client Signal Model
-   4.  YANG Code for Client-layer Tunnel
-     4.1.  The ETH Tunnel YANG Code
-     4.2.  Other Client-layer Tunnel YANG Code
-   5.  Considerations and Open Issue
-   6.  IANA Considerations
-   7.  Manageability Considerations
-   8.  Security Considerations
-   9.  References
-     9.1.  Normative References
-     9.2.  Informative References
-   Acknowledgments
-   Contributors
-   Authors' Addresses
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Terminology and Notations . . . . . . . . . . . . . . . . . .   3
+   3.  YANG Model for Client-layer Tunnel  . . . . . . . . . . . . .   3
+     3.1.  YANG Tree for Ethernet Tunnel . . . . . . . . . . . . . .   3
+     3.2.  YANG Tree for Tunnel of other Client Signal Model . . . .   4
+   4.  YANG Code for Client-layer Tunnel . . . . . . . . . . . . . .   4
+     4.1.  The ETH Tunnel YANG Code  . . . . . . . . . . . . . . . .   4
+     4.2.  Other Client-layer Tunnel YANG Code . . . . . . . . . . .   6
+   5.  Considerations and Open Issue . . . . . . . . . . . . . . . .   6
+   6.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   6
+   7.  Manageability Considerations  . . . . . . . . . . . . . . . .   6
+   8.  Security Considerations . . . . . . . . . . . . . . . . . . .   6
+   9.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   7
+     9.1.  Normative References  . . . . . . . . . . . . . . . . . .   7
+     9.2.  Informative References  . . . . . . . . . . . . . . . . .   7
+   Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . .   8
+   Contributors  . . . . . . . . . . . . . . . . . . . . . . . . . .   8
+   Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . .   8
 
 1.  Introduction
 
@@ -97,6 +106,14 @@ Table of Contents
    This document defines a data model of all client-layer tunnel, using
    YANG language defined in [RFC7950].  The model is augmenting the
    generic TE tunnel model, and can be used by applications exposing to
+
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 2]
+
+Internet-Draft          Client Tunnel YANG Model            October 2023
+
+
    a network controller via a REST interface.  Furthermore, it can be
    used by an application to describe the client tunnel that constructed
    above the server-layer network.  It is also worth noting that the
@@ -128,6 +145,30 @@ Table of Contents
 3.  YANG Model for Client-layer Tunnel
 
 3.1.  YANG Tree for Ethernet Tunnel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 3]
+
+Internet-Draft          Client Tunnel YANG Model            October 2023
+
 
    module: ietf-eth-te-tunnel
 
@@ -177,6 +218,14 @@ Table of Contents
            "Internet Engineering Task Force (IETF) CCAMP WG";
      contact
        "
+
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 4]
+
+Internet-Draft          Client Tunnel YANG Model            October 2023
+
+
          WG List: <mailto:ccamp@ietf.org>
 
          ID-draft editor:
@@ -225,6 +274,14 @@ Table of Contents
                uses eth-tunnel-endpoint;
            }
            container dst-eth-tunnel-endpoint {
+
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 5]
+
+Internet-Draft          Client Tunnel YANG Model            October 2023
+
+
                description
                    "Destination ETH tunnel endpoint.";
 
@@ -274,6 +331,13 @@ Table of Contents
    RESTCONF protocol defined in [RFC8040], or maybe via the NETCONF
    protocol [RFC6241].
 
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 6]
+
+Internet-Draft          Client Tunnel YANG Model            October 2023
+
+
 9.  References
 
 9.1.  Normative References
@@ -319,6 +383,16 @@ Table of Contents
    [RFC8340]  Bjorklund, M. and L. Berger, Ed., "YANG Tree Diagrams",
               BCP 215, RFC 8340, DOI 10.17487/RFC8340, March 2018,
               <https://www.rfc-editor.org/info/rfc8340>.
+
+
+
+
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 7]
+
+Internet-Draft          Client Tunnel YANG Model            October 2023
+
 
 Acknowledgments
 
@@ -368,6 +442,14 @@ Authors' Addresses
    Email: aihuaguo@futurewei.com
 
 
+
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 8]
+
+Internet-Draft          Client Tunnel YANG Model            October 2023
+
+
    Italo Busi
    Huawei Technologies
    Email: italo.busi@huawei.com
@@ -386,3 +468,37 @@ Authors' Addresses
    Xufeng Liu
    Alef Edge
    Email: xufeng.liu.ietf@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yu, et al.                Expires 11 April 2024                 [Page 9]
