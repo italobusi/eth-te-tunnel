@@ -1,2 +1,5 @@
-
-.refcache
+/.requirements.txt
+/Gemfile.lock
+/lib/
+/node_modules/
+/package-lock.json
