@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Routing"
+workgroup: "Common Control and Measurement Plane"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Common Control and Measurement Plane"
+  type: "Working Group"
+  mail: "ccamp@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/ccamp/"
+  github: "italobusi/eth-te-tunnel"
+  latest: "https://italobusi.github.io/eth-te-tunnel/draft-zheng-ccamp-client-tunnel-yang.html"
 
 author:
  -
