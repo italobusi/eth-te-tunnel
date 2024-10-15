@@ -1,0 +1,141 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2024-10-15T01:45:26.891569+00:00",
+  "repo": "italobusi/eth-te-tunnel",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2,
+      "id": "I_kwDOKSt80c57xu5I",
+      "title": "Update reference to WDM Tunnel model",
+      "url": "https://github.com/italobusi/eth-te-tunnel/issues/2",
+      "state": "OPEN",
+      "author": "italobusi",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Update the references to WDM tunnel model [draft-ietf-ccamp-wdm-tunnel-yang](https://datatracker.ietf.org/doc/html/draft-ietf-ccamp-wdm-tunnel-yang)) which has replaced both WSON and Flexi-grid tunnel models",
+      "createdAt": "2024-01-11T13:18:57Z",
+      "updatedAt": "2024-01-11T13:18:57Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOKSt80c5aNFhY",
+      "title": "Updated for -13 refresh",
+      "url": "https://github.com/italobusi/eth-te-tunnel/pull/1",
+      "state": "MERGED",
+      "author": "italobusi",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Converted to kramdown\r\n\r\nAdded Chaode as co-author\r\n\r\nUpdated Xufeng affiliation",
+      "createdAt": "2023-09-13T07:49:12Z",
+      "updatedAt": "2023-09-22T04:46:24Z",
+      "baseRepository": "italobusi/eth-te-tunnel",
+      "baseRefName": "main",
+      "baseRefOid": "0762e043294744616ecb65388675d4e557df8c6e",
+      "headRepository": "italobusi/eth-te-tunnel",
+      "headRefName": "kramdown",
+      "headRefOid": "09770095de49de99f8f49b9ad5f35e7d33ee3998",
+      "closedAt": "2023-09-22T04:46:21Z",
+      "mergedAt": "2023-09-22T04:46:21Z",
+      "mergedBy": "italobusi",
+      "mergeCommit": {
+        "oid": "9c6ab1328bcc8fff54e587afd54a07cf65024197"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOKSt80c5hllB-",
+          "commit": {
+            "abbreviatedOid": "5292e45"
+          },
+          "author": "YuChaode",
+          "authorAssociation": "COLLABORATOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2023-09-21T08:32:23Z",
+          "updatedAt": "2023-09-21T08:32:23Z",
+          "comments": [
+            {
+              "originalPosition": 53,
+              "body": "Just a small issue, I remember that there used to be an security scanning issue in the inventory repository. shall we remove Chinese Operators' information on GitHub and add it manually when we submit the draft?",
+              "createdAt": "2023-09-21T08:32:23Z",
+              "updatedAt": "2023-09-21T08:32:23Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOKSt80c5hsyTS",
+          "commit": {
+            "abbreviatedOid": "5292e45"
+          },
+          "author": "italobusi",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2023-09-22T04:45:34Z",
+          "updatedAt": "2023-09-22T04:45:34Z",
+          "comments": [
+            {
+              "originalPosition": 53,
+              "body": "See: https://github.com/italobusi/eth-te-tunnel/pull/1/commits/09770095de49de99f8f49b9ad5f35e7d33ee3998",
+              "createdAt": "2023-09-22T04:45:34Z",
+              "updatedAt": "2023-09-22T04:45:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
