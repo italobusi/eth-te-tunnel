@@ -75,8 +75,7 @@ contributor:
     name: Giuseppe Fioccola
     org: Huawei Technologies
     email: giuseppe.fioccola@huawei.com
-  -
-    {::include contributor.yml}
+{::include contributor.yml}
 
 normative:
 
