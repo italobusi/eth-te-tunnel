@@ -5,7 +5,7 @@
 Common Control and Measurement Plane                               C. Yu
 Internet-Draft                                                  H. Zheng
 Intended status: Standards Track                     Huawei Technologies
-Expires: 17 April 2025                                            A. Guo
+Expires: 24 May 2025                                              A. Guo
                                                                Futurewei
                                                                  I. Busi
                                                      Huawei Technologies
@@ -15,7 +15,7 @@ Expires: 17 April 2025                                            A. Guo
                                                             China Mobile
                                                                   X. Liu
                                                                Alef Edge
-                                                         14 October 2024
+                                                        20 November 2024
 
 
                A YANG Data Model for Client-layer Tunnel
@@ -60,7 +60,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 17 April 2025.
+   This Internet-Draft will expire on 24 May 2025.
 
 Copyright Notice
 
@@ -365,9 +365,7 @@ Contributors
    Email: giuseppe.fioccola@huawei.com
 
 
-   Yanlei Zheng
-   China Unicom
-   Email: zhengyanlei@chinaunicom.cn
+   To-Be-Added
 
 
 Authors' Addresses
