@@ -21,4 +21,4 @@ draft-zheng-ccamp-client-tunnel-yang.xml
 package-lock.json
 report.xml
 !requirements.txt
-./*.yml
+*.yml
