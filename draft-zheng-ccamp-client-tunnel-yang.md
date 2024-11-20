@@ -76,9 +76,7 @@ contributor:
     org: Huawei Technologies
     email: giuseppe.fioccola@huawei.com
   -
-    name: Yanlei Zheng
-    org: China Unicom
-    email: zhengyanlei@chinaunicom.cn
+    {::include contributor.yml}
 
 normative:
 
