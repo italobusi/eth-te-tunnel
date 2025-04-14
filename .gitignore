@@ -12,13 +12,15 @@
 /.targets.mk
 /.venv/
 /.vscode/
+/contributors
+/lib
 /lib
 /node_modules/
 /versioned/
 Gemfile.lock
 archive.json
 draft-zheng-ccamp-client-tunnel-yang.xml
+draft-zheng-ccamp-client-tunnel-yang.xml
 package-lock.json
 report.xml
 !requirements.txt
-/contributors
