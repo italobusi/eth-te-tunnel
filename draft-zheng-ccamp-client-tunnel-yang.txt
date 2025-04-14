@@ -2,7 +2,7 @@
 
 
 
-Common Control and Measurement Plane                               C. Yu
+CCAMP Working Group                                                C. Yu
 Internet-Draft                                                  H. Zheng
 Intended status: Standards Track                     Huawei Technologies
 Expires: 16 October 2025                                          A. Guo
@@ -37,10 +37,10 @@ About This Document
    at https://datatracker.ietf.org/doc/draft-zheng-ccamp-client-tunnel-
    yang/.
 
-   Discussion of this document takes place on the CCAMP Working Group
-   Working Group mailing list (mailto:ccamp@ietf.org), which is archived
-   at https://mailarchive.ietf.org/arch/browse/ccamp/.  Subscribe at
-   https://www.ietf.org/mailman/listinfo/ccamp/.
+   Discussion of this document takes place on the Common Control and
+   Measurement Plane Working Group mailing list (mailto:ccamp@ietf.org),
+   which is archived at https://mailarchive.ietf.org/arch/browse/ccamp/.
+   Subscribe at https://www.ietf.org/mailman/listinfo/ccamp/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/italobusi/eth-te-tunnel.
