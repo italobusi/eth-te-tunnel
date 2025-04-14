@@ -16,7 +16,7 @@ keyword:
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: "Common Control and Measurement Plane"
+  group: "CCAMP Working Group"
   type: "Working Group"
   mail: "ccamp@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/ccamp/"
@@ -76,8 +76,9 @@ contributor:
     org: Huawei Technologies
     email: giuseppe.fioccola@huawei.com
   -
-    name: To-Be-Added
-    email: To-Be-Added
+    name: Yanlei Zheng
+    org: China Unicom
+    email: zhengyanlei@chinaunicom.cn
 
 normative:
 
